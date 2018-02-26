@@ -7,7 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using GarbageCollector.Models;
-using GarbageCollector.Models.GarbageCollection.GarbageCollector.Models.Garbage;
+using GarbageCollector.Models.GarbageCollection;
 
 namespace GarbageCollector.Controllers
 {

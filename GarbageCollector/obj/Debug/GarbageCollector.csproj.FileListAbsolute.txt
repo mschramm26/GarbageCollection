@@ -77,6 +77,9 @@ c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\Gar
 c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Microsoft.Owin.Security.Google.xml
 c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojResolveAssemblyReference.cache
 c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.dll
 c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb
+c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojResolveAssemblyReference.cache
+c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.Migrations.InitialCreate.resources
+c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csproj.GenerateResource.Cache
+c:\users\melissa-acer\documents\visual studio 2015\Projects\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.Migrations.foo.resources

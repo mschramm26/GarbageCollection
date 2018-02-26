@@ -30,8 +30,6 @@ namespace GarbageCollector.Models
             return new ApplicationDbContext();
         }
 
-        public System.Data.Entity.DbSet<GarbageCollector.Models.GarbageCollection.GarbageCollector.Models.Garbage.Customer> Customers { get; set; }
-
-        public System.Data.Entity.DbSet<GarbageCollector.Models.GarbageCollection.GarbageCollector.Models.Garbage.Employee> Employees { get; set; }
+        public System.Data.Entity.DbSet<GarbageCollector.Models.GarbageCollection.Customer> Customers { get; set; }
     }
 }

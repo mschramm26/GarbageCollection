@@ -79,6 +79,10 @@ namespace GarbageCollector.Models
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+
+        [Required]
+        [Display(Name = "Register As")]
+        public string RegistrationRole { get; set; }
     }
 
     public class ResetPasswordViewModel
